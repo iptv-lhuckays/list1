@@ -1,0 +1,10 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
+
+#---CANAIS ESPORTES---#
+#---SD---#
+
+#---HD---#
+
+#---FHD---#
+#EXTINF:-1 tvg-id="sportv_fhd" tvg-name="SPORTV FHD" tvg-logo="https://i.postimg.cc/q7Rhk7PV/sportv.png" group-title="Esportes",SPORTV FHD
+http://185.236.183.117:16644
