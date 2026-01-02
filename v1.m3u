@@ -4,9 +4,9 @@
 #---SD---#
 
 #---HD---#
-#EXTINF:-1 tvg-id="espn_2_hd" tvg-name="ESPN 2 HD" tvg-logo="https://logo.cleariptv.com/ESPN2HD.png" group-title="Esportes",ESPN 2 HD
+#EXTINF:-1 tvg-id="espn_2_hd" tvg-name="ESPN 2 HD" tvg-logo="https://i.postimg.cc/QMQ8ZZMy/espn2.png" group-title="Esportes",ESPN 2 HD
 http://185.246.208.74:14214
-#EXTINF:-1 tvg-id="espn_hd" tvg-name="ESPN HD" tvg-logo="https://logo.cleariptv.com/ESPNHD.png" group-title="Esportes",ESPN HD
+#EXTINF:-1 tvg-id="espn_hd" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/pXrLhS0y/espn.png" group-title="Esportes",ESPN HD
 http://185.246.208.74:14097
 
 #---FHD---#
