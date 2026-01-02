@@ -12,3 +12,27 @@ http://185.246.208.74:14097
 #---FHD---#
 #EXTINF:-1 tvg-id="sportv_fhd" tvg-name="SPORTV FHD" tvg-logo="https://i.postimg.cc/q7Rhk7PV/sportv.png" group-title="Esportes",SPORTV FHD
 http://185.236.183.117:16644
+
+#---CANAIS TELECINE---#
+#---SD---#
+
+#---HD---#
+#EXTINF:-1 tvg-id="telecine_fun_hd" tvg-name="TELECINE FUN HD" tvg-logo="https://i.postimg.cc/7h2D9FjB/telecinefun.png" group-title="Filmes",TELECINE FUN HD
+http://89.187.190.183:14107
+
+#EXTINF:-1 tvg-id="telecine_cult_hd" tvg-name="TELECINE CULT HD" tvg-logo="https://i.postimg.cc/MTXzMMD4/telecinecult.png" group-title="Filmes",TELECINE CULT HD
+http://89.187.190.183:14104
+
+#EXTINF:-1 tvg-id="telecine_action_hd" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.postimg.cc/t4HRSgqD/telecineaction.png" group-title="Filmes",TELECINE ACTION HD
+http://89.187.190.183:14101
+
+#EXTINF:-1 tvg-id="telecine_pipoca_hd" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.postimg.cc/fTYSTpkV/telecinepipoca.png" group-title="Filmes",TELECINE PIPOCA HD
+http://89.187.190.183:14110
+
+#EXTINF:-1 tvg-id="telecine_premium_hd" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.postimg.cc/yN8DjNjD/telecinepremium.png" group-title="Filmes",TELECINE PREMIUM HD
+http://89.187.190.183:14113
+
+#EXTINF:-1 tvg-id="telecine_touch_hd" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.postimg.cc/PxBNdQj2/telecinetouch.png" group-title="Filmes",TELECINE TOUCH HD
+http://89.187.190.183:14116
+
+#---FHD---#
