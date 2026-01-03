@@ -23,12 +23,12 @@ http://79.127.238.228:14157
 #---FHD---#
 #EXTINF:-1 tvg-id="sportv_fhd" tvg-name="SPORTV FHD" tvg-logo="https://i.postimg.cc/q7Rhk7PV/sportv.png" group-title="Esportes",SPORTV FHD
 http://185.236.183.117:16644
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FULL HD" tvg-logo="https://i.postimg.cc/JhCH8ffG/SPORTV-2.png" group-title="Esportes",SporTV 2 FULL HD
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://i.postimg.cc/JhCH8ffG/SPORTV-2.png" group-title="Esportes",SporTV 2 FULL HD
 http://79.127.243.211:14469
 #EXTINF:-1 tvg-id="sportv_3_fhd" tvg-name="SPORTV 3 FHD" tvg-logo="https://i.postimg.cc/3wGMXp6d/SPORTV-3.png" group-title="Esportes",SPORTV 3 FHD
 http://185.236.183.118:16652
 
-#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 FULL HD" tvg-logo="https://i.postimg.cc/52Y8bq64/espn4.png" group-title="Esportes",ESPN 4 FULL HD
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 FHD" tvg-logo="https://i.postimg.cc/52Y8bq64/espn4.png" group-title="Esportes",ESPN 4 FULL HD
 http://79.127.243.211:14514
 #EXTINF:-1 tvg-id="espn_5_fhd" tvg-name="ESPN 5 FHD" tvg-logo="https://i.postimg.cc/Nj17RjD7/espn5.png" group-title="Esportes",ESPN 5 FHD
 http://185.236.183.118:16214
@@ -36,7 +36,7 @@ http://185.236.183.118:16214
 #EXTINF:-1 tvg-id="premiere_fhd" tvg-name="PREMIERE FHD" tvg-logo="https://i.postimg.cc/FzLJmTn5/PREMIERE-1-Copia.png" group-title="Esportes",PREMIERE FHD
 http://185.236.183.118:16509
 
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports FULL HD" tvg-logo="https://i.postimg.cc/3xmWtLkr/bandsportes.png" group-title="Esportes",BandSports FULL HD
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BANDSPORTS FHD" tvg-logo="https://i.postimg.cc/3xmWtLkr/bandsportes.png" group-title="Esportes",BandSports FULL HD
 http://79.127.243.211:14445
 
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD" tvg-logo="https://i.postimg.cc/xCM227SC/combate.png" group-title="Esportes",Combate FULL HD
