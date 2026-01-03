@@ -4,17 +4,51 @@
 #---SD---#
 
 #---HD---#
-#EXTINF:-1 tvg-id="espn_2_hd" tvg-name="ESPN 2 HD" tvg-logo="https://i.postimg.cc/QMQ8ZZMy/espn2.png" group-title="Esportes",ESPN 2 HD
-http://185.246.208.74:14214
 #EXTINF:-1 tvg-id="espn_hd" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/pXrLhS0y/espn.png" group-title="Esportes",ESPN HD
 http://185.246.208.74:14097
+#EXTINF:-1 tvg-id="espn_2_hd" tvg-name="ESPN 2 HD" tvg-logo="https://i.postimg.cc/QMQ8ZZMy/espn2.png" group-title="Esportes",ESPN 2 HD
+http://185.246.208.74:14214
+#EXTINF:-1 tvg-id="espn3_hd" tvg-name="ESPN3 HD" tvg-logo="https://i.postimg.cc/x8TK2GVX/espn3.png" group-title="Esportes",ESPN3 HD
+http://46.151.196.223:14444
+#EXTINF:-1 tvg-id="sportv_hd" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/q7Rhk7PV/sportv.png" group-title="Esportes",SPORTV HD
+http://89.187.190.183:14201
+
+#EXTINF:-1 tvg-id="caze_tv_hd" tvg-name="CAZE TV HD" tvg-logo="https://logo.cleariptv.com/CAZETVHD.png" group-title="Outros",CAZE TV HD
+http://185.236.183.118:16060
+#EXTINF:-1 tvg-id="dazn_hd" tvg-name="DAZN HD" tvg-logo="https://i.postimg.cc/QtWQmgZc/dazn.png" group-title="Outros",DAZN HD
+http://185.236.183.118:16038
+#EXTINF:-1 tvg-id="premiere_hd" tvg-name="PREMIERE HD" tvg-logo="https://i.postimg.cc/FzLJmTn5/PREMIERE-1-Copia.png" group-title="Esportes",PREMIERE HD
+http://79.127.238.228:14157
 
 #---FHD---#
 #EXTINF:-1 tvg-id="sportv_fhd" tvg-name="SPORTV FHD" tvg-logo="https://i.postimg.cc/q7Rhk7PV/sportv.png" group-title="Esportes",SPORTV FHD
 http://185.236.183.117:16644
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FULL HD" tvg-logo="https://i.postimg.cc/JhCH8ffG/SPORTV-2.png" group-title="Esportes",SporTV 2 FULL HD
+http://79.127.243.211:14469
+#EXTINF:-1 tvg-id="sportv_3_fhd" tvg-name="SPORTV 3 FHD" tvg-logo="https://i.postimg.cc/3wGMXp6d/SPORTV-3.png" group-title="Esportes",SPORTV 3 FHD
+http://185.236.183.118:16652
+
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 FULL HD" tvg-logo="https://i.postimg.cc/52Y8bq64/espn4.png" group-title="Esportes",ESPN 4 FULL HD
+http://79.127.243.211:14514
+#EXTINF:-1 tvg-id="espn_5_fhd" tvg-name="ESPN 5 FHD" tvg-logo="https://i.postimg.cc/Nj17RjD7/espn5.png" group-title="Esportes",ESPN 5 FHD
+http://185.236.183.118:16214
+
+#EXTINF:-1 tvg-id="premiere_fhd" tvg-name="PREMIERE FHD" tvg-logo="https://i.postimg.cc/FzLJmTn5/PREMIERE-1-Copia.png" group-title="Esportes",PREMIERE FHD
+http://185.236.183.118:16509
+
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports FULL HD" tvg-logo="https://i.postimg.cc/3xmWtLkr/bandsportes.png" group-title="Esportes",BandSports FULL HD
+http://79.127.243.211:14445
+
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD" tvg-logo="https://i.postimg.cc/xCM227SC/combate.png" group-title="Esportes",Combate FULL HD
+http://79.127.243.211:14449
 
 #---CANAIS TELECINE---#
 #---SD---#
+#EXTINF:-1 tvg-id="telecine_cult_sd" tvg-name="TELECINE CULT SD" tvg-logo="https://i.postimg.cc/MTXzMMD4/telecinecult.png" group-title="Filmes",TELECINE CULT SD
+http://185.236.183.117:16693
+
+#EXTINF:-1 tvg-id="telecine_touch_sd" tvg-name="TELECINE TOUCH SD" tvg-logo="https://i.postimg.cc/PxBNdQj2/telecinetouch.png" group-title="Filmes",TELECINE TOUCH SD
+http://185.236.183.117:16689
 
 #---HD---#
 #EXTINF:-1 tvg-id="telecine_fun_hd" tvg-name="TELECINE FUN HD" tvg-logo="https://i.postimg.cc/7h2D9FjB/telecinefun.png" group-title="Filmes",TELECINE FUN HD
@@ -36,3 +70,15 @@ http://89.187.190.183:14113
 http://89.187.190.183:14116
 
 #---FHD---#
+#EXTINF:-1 tvg-id="telecine_action_fhd" tvg-name="TELECINE ACTION FHD" tvg-logo="https://logo.cleariptv.com/TELECINEACTIONFHD.png" group-title="Filmes",TELECINE ACTION FHD
+http://185.236.183.118:16161
+
+#EXTINF:-1 tvg-id="telecine_cult_fhd" tvg-name="TELECINE CULT FHD" tvg-logo="https://i.postimg.cc/MTXzMMD4/telecinecult.png" group-title="Filmes",TELECINE CULT FHD
+http://185.236.183.117:16695
+
+#EXTINF:-1 tvg-id="telecine_pipoca_fhd" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://i.postimg.cc/fTYSTpkV/telecinepipoca.png" group-title="Filmes",TELECINE PIPOCA FHD
+http://185.236.183.117:16682
+
+#EXTINF:-1 tvg-id="telecine_touch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://i.postimg.cc/PxBNdQj2/telecinetouch.png" group-title="Filmes",Telecine Touch FULL HD
+http://79.127.243.211:14652
+
